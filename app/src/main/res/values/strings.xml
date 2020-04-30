@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShoppingCartApp</string>
+    <string name="cartItem_Name">itemName</string>
+    <string name="cartItem_category">itemCat</string>
+    <string name="cartItem_Price">itemPrice</string>
+    <string name="cartItem_Qty">itemQty</string>
+    <string name="itmTitle">itmTitle</string>
+    <string name="Details_desc">itmDetailsDesc</string>
+    <string name="Details_price">itmDetailsPrice</string>
+    <string name="addItem">addItem</string>
+    <string name="showItem">showItem</string>
+    <string name="updateItem">updateItem</string>
+    <string name="deleteItem">Delete Item</string>
+</resources>
